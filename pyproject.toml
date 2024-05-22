@@ -1,0 +1,14 @@
+[project]
+name = "batch-condition-comfyui"
+description = "Nodes:CLIP Text Encode (Batch), String Input, Batch String"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/laksjdjf/Batch-Condition-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Batch-Condition-ComfyUI"
+Icon = ""
